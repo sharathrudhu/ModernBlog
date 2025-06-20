@@ -109,7 +109,7 @@ export function Footer() {
 
         <div className="flex flex-col sm:flex-row justify-between items-center space-y-4 sm:space-y-0">
           <p className="text-sm text-muted-foreground">
-            © 2024 ModernBlog. All rights reserved.
+            ©sharathr.webdeveloper@gmail.com
           </p>
           <div className="flex space-x-4 text-sm text-muted-foreground">
             <Link to="/privacy" className="hover:text-foreground transition-colors">
